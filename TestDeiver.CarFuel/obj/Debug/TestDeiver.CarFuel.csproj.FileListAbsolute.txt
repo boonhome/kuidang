@@ -1,0 +1,5 @@
+D:\Codeding\NodeJs\exam\git\kuidang\TestDeiver.CarFuel\bin\Debug\TestDeiver.CarFuel.dll
+D:\Codeding\NodeJs\exam\git\kuidang\TestDeiver.CarFuel\bin\Debug\TestDeiver.CarFuel.pdb
+D:\Codeding\NodeJs\exam\git\kuidang\TestDeiver.CarFuel\obj\Debug\TestDeiver.CarFuel.csprojResolveAssemblyReference.cache
+D:\Codeding\NodeJs\exam\git\kuidang\TestDeiver.CarFuel\obj\Debug\TestDeiver.CarFuel.dll
+D:\Codeding\NodeJs\exam\git\kuidang\TestDeiver.CarFuel\obj\Debug\TestDeiver.CarFuel.pdb
